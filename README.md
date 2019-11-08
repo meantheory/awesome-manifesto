@@ -5,6 +5,7 @@
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [License Zero Manifesto](https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html)
 - [Longflow Manifesto](https://github.com/Nax/longflow-manifesto/blob/master/README.md)
+- [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 - [Redis Manifesto](http://oldblog.antirez.com/post/redis-manifesto.html)
 - [Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/)
