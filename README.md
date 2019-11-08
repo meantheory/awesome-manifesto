@@ -1,6 +1,7 @@
 # awesome-manifesto
 
 - [Agile Manifesto](https://agilemanifesto.org/)
+- [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [Rugged Software](https://ruggedsoftware.org/)
 - [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
