@@ -1,6 +1,7 @@
 # awesome-manifesto
 
 - [Agile Manifesto](https://agilemanifesto.org/)
+- [Cyberspace Independence](https://www.eff.org/cyberspace-independence)
 - [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [License Zero Manifesto](https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html)
