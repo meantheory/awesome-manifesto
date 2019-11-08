@@ -1,5 +1,7 @@
 # awesome-manifesto
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 Legal Disclaimer: This is an `awesome` style list. Qualifying for the random criteria to reside on a curated list of manifesto's does not equate to endorsement. 
 
 - [Agile Manifesto](https://agilemanifesto.org/)
