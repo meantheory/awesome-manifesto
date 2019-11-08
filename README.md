@@ -8,3 +8,4 @@
 - [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 - [Tau Manifesto](https://tauday.com/tau-manifesto)
 - [UTF8 Everywhere Manifesto](https://utf8everywhere.org/)
+- [Why I Go Home](http://adamschepis.com/2011/09/15/why-i-go-home-a-dads-manifesto.html)
