@@ -4,6 +4,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [Anti-mediocracy Manifesto for Software Development](http://gabordemooij.com/index.php?p=manifesto)
+- [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) - a manifesto about awesome lists, very meta
 - [Async Manifesto](http://asyncmanifesto.org/)
 - [Cyberspace Independence](https://www.eff.org/cyberspace-independence)
 - [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
