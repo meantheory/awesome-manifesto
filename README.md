@@ -1,6 +1,7 @@
 # awesome-manifesto
 
 - [Agile Manifesto](https://agilemanifesto.org/)
+- [Async Manifesto](http://asyncmanifesto.org/)
 - [Cyberspace Independence](https://www.eff.org/cyberspace-independence)
 - [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
