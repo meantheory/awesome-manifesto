@@ -6,4 +6,5 @@
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 - [Rugged Software](https://ruggedsoftware.org/)
 - [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
+- [Tau Manifesto](https://tauday.com/tau-manifesto)
 - [UTF8 Everywhere Manifesto](https://utf8everywhere.org/)
