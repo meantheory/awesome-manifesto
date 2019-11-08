@@ -5,6 +5,7 @@
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
 - [Longflow Manifesto](https://github.com/Nax/longflow-manifesto/blob/master/README.md)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
+- [Redis Manifesto](http://oldblog.antirez.com/post/redis-manifesto.html)
 - [Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/)
 - [Rugged Software](https://ruggedsoftware.org/)
 - [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
