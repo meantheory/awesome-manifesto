@@ -10,6 +10,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Async Manifesto](http://asyncmanifesto.org/)
 - [Cyberspace Independence](https://www.eff.org/cyberspace-independence)
 - [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
+- [Done Manifesto](https://lifehacker.com/the-done-manifesto-lays-out-13-ground-rules-for-getting-5864004)
 - [Drew Houston Manifesto](https://firstround.com/review/How-to-Win-as-a-First-Time-Founder-a-Drew-Houston-Manifesto/) - win as a first time founder
 - [Halfarsed Agile Manifesto](http://www.halfarsedagilemanifesto.org/)
 - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)
