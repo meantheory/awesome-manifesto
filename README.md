@@ -20,6 +20,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Longflow Manifesto](https://github.com/Nax/longflow-manifesto/blob/master/README.md)
 - [Minifesto](http://minifesto.org)
 - [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+- [Programming, Motherfucker](http://programming-motherfucker.com)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 - [Redis Manifesto](http://oldblog.antirez.com/post/redis-manifesto.html)
 - [Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/)
