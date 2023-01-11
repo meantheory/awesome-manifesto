@@ -11,6 +11,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Cyberspace Independence](https://www.eff.org/cyberspace-independence)
 - [A Cypherpunk's Manifesto](https://what.cd)
 - [Cofounder Manifesto](https://twitter.com/emilyca5/status/1192477453077233664?s=21)
+- [DataOps Manifesto](https://dataopsmanifesto.org/en/)
 - [Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Done Manifesto](https://lifehacker.com/the-done-manifesto-lays-out-13-ground-rules-for-getting-5864004)
 - [Drew Houston Manifesto](https://firstround.com/review/How-to-Win-as-a-First-Time-Founder-a-Drew-Houston-Manifesto/) - win as a first time founder
