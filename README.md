@@ -30,3 +30,4 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Why I Go Home](http://adamschepis.com/2011/09/15/why-i-go-home-a-dads-manifesto.html)
 - [HL7 FHIR Manifesto](https://www.lyniate.com/knowledge-hub/hl7-fhir-manifesto/)
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
