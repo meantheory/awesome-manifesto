@@ -33,3 +33,4 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [HL7 FHIR Manifesto](https://www.lyniate.com/knowledge-hub/hl7-fhir-manifesto/)
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
+- [The Professional Data Science Manifesto](http://datasciencemanifesto.org)
