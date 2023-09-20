@@ -34,3 +34,4 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
 - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
 - [The Professional Data Science Manifesto](http://datasciencemanifesto.org)
+- [Open Tofu Manifesto](https://opentofu.org/manifesto) - the Terraform forking
