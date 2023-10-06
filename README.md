@@ -22,6 +22,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Minifesto](http://minifesto.org)
 - [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 - [Programming, Motherfucker](http://programming-motherfucker.com)
+- [Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 - [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 - [Redis Manifesto](http://oldblog.antirez.com/post/redis-manifesto.html)
 - [Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/)
@@ -30,5 +31,9 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Tau Manifesto](https://tauday.com/tau-manifesto)
 - [UTF8 Everywhere Manifesto](https://utf8everywhere.org/)
 - [Why I Go Home](http://adamschepis.com/2011/09/15/why-i-go-home-a-dads-manifesto.html)
+- [YDD: YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
 - [HL7 FHIR Manifesto](https://www.lyniate.com/knowledge-hub/hl7-fhir-manifesto/)
 - [Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
+- [The Professional Data Science Manifesto](http://datasciencemanifesto.org)
+- [Open Tofu Manifesto](https://opentofu.org/manifesto) - the Terraform forking
