@@ -29,6 +29,7 @@ Legal Disclaimer: This is an `awesome` style list. Qualifying for the random cri
 - [Rugged Software](https://ruggedsoftware.org/)
 - [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 - [Tau Manifesto](https://tauday.com/tau-manifesto)
+- [The Karlskrona Manifesto for Sustainability Design](https://sustainabilitydesign.org)
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [UTF8 Everywhere Manifesto](https://utf8everywhere.org/)
 - [Why I Go Home](http://adamschepis.com/2011/09/15/why-i-go-home-a-dads-manifesto.html)
